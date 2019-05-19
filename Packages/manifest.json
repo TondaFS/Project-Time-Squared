@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "com.unity.package-manager-ui": "1.9.8",
+    "com.unity.probuilder": "3.0.6",
+    "com.unity.standardevents": "1.0.13",
+    "com.unity.analytics": "2.0.15",
+    "com.unity.cinemachine": "2.1.12",
+    "com.unity.textmeshpro": "1.2.2"
+  }
+}

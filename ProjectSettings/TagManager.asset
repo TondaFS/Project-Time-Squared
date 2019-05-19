@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Field
   layers:
   - Default
   - TransparentFX
@@ -14,14 +15,14 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - InvisibleToCamera
+  - Player
+  - InteractionWithPlayer
+  - NoInteractionWithPlayer
+  - Trigger
+  - RayCastObjects
+  - Floor
+  - Walls
   - 
   - 
   - 
